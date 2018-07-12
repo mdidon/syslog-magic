@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2018 
+Copyright (c) 2018 Matt Didon
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +19,14 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+Open Source Libraries included:
+https://www.npmjs.com/package/clear
+https://www.npmjs.com/package/colors
+https://www.npmjs.com/package/syslog-server
+https://www.npmjs.com/package/moment
+https://www.npmjs.com/package/sleep-promise
+https://www.npmjs.com/package/keen-tracking
+https://www.npmjs.com/package/is-reachable
+https://www.npmjs.com/package/fs
+https://www.npmjs.com/package/curl
